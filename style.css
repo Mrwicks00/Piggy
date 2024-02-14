@@ -1,0 +1,123 @@
+body{
+    background-color: rgb(6,40,99);
+    
+    
+}
+
+.box{ 
+     width: 403.328px;
+     height: 412px;
+     border: 1px solid white;
+     background-color: white;
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+     border-bottom-right-radius: 20px;
+     position: absolute; left: 680px; top: 120px;
+     
+
+     
+
+}
+
+#input{
+    width: 310px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: rgb(237,242,247);
+    position: relative; top: 70px; right: 5px;
+    padding: 10px;
+    outline: 0;
+}
+
+.button{
+    width: 340px;
+    height: 45px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(13,96,216);
+    color: white;
+    margin: 50px 10%;
+    position: relative; right: 45px; top:40px;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    font-weight: 570;
+}
+
+#div{
+    position: absolute; left: 40px;
+    
+}
+
+#password {
+    width: 310px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: rgb(237,242,247);
+    position: relative; top: 80px; right: 5px;
+    padding: 10px;
+    outline: 0;
+}
+
+#account {
+    font-size: 1.5em;
+    color: #083e9e;
+    font-family: sans-serif;
+    font-weight: 600;
+    position: relative; top: 50px; left: 80px;
+    
+}
+
+#login {font-family: sans-serif;
+        font-size: 0.8em;
+        font-family: karla;
+        position: relative;  left: 120px; top: 49px;
+        
+}
+
+#email{
+    position: relative; top: 50px; left: 40px;
+    font-family: cursive; font-size: 0.72em; font-weight: 540;
+    
+}
+#label{
+    position: relative; top: 80px;
+    font-family: cursive; font-size: 0.72em; font-weight: 540;
+    
+}
+
+#links {
+    position: relative; top: 540px;
+    left: 590px; 
+    color: white; font-family: sans-serif;
+    font-size: 0.8em; text-decoration: none;
+
+}
+
+#linkss {
+    position: relative; top: 280px;
+    left:810px; 
+    color: white; font-family: sans-serif;
+    font-size: 0.8em; text-decoration: none;
+}
+#image {
+    position: relative;left: 770px;  top: 37px;
+    width: 170px;
+}
+
+#opng {
+    position: relative; right: 135px; bottom: 170px; width: 260px;
+}
+#jjpng {
+    position: relative; right: 770px; top: 590px; width: 290px;
+
+}
+#jpng {
+    position: relative; left: 1170px; bottom: 50px;
+}
+
+#lpng {
+    position:relative; top: 560px; left: 510px;
+}
